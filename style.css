@@ -1,4 +1,25 @@
  ul li{
      float: left;
      list-style-type:none;
+     padding:12px 22px;
+     border: 2px solid black;
+     background-color: green;
+     text-transform: uppercase;
+     height: 80px;
+     width: 100px;
+     display: block;
+     text-align: center;
+     margin-bottom: 50px;
+      
+    
+ }
+ ul li:hover{
+    color: red;
+    background-color: black;
+ }
+ #Babe{
+    background-image: url(babe\ photo.avif);
+    height: 600px;
+    background-repeat: no-repeat;
+    background-position: center;
  }
